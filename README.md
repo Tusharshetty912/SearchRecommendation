@@ -40,7 +40,6 @@ dependencies {
         SearchRecommend.searchRecommend(this,activityMainBinding.editText,recommendSearch)
    
    ```
-
 ```
-[![Watch the video](https://img.youtube.com/vi/T-ZGZOz6YXuZI/maxresdefault.jpg)](https://youtu.be/T-ZGZOz6YXuZI)
+[![](https://markdown-videos.deta.dev/youtube/ZGZOz6YXuZI)](https://youtu.be/ZGZOz6YXuZI)
 ```
